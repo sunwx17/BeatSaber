@@ -5,11 +5,11 @@
 *.qws
 
 # Outputs
-./db/
-./incremental_db/
-./output_files/
-./simulation/
-./greybox_tmp/
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
 *.rpt
 *.img
 
